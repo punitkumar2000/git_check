@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# check the file to make sure it is working well
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'TrendyFinds.settings')
