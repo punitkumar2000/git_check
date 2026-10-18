@@ -13,7 +13,7 @@ def main():
         raise ImportError(
             "Couldn't import Django. Are you sure it's installed and "
             "available on your PYTHONPATH environment variable? Did you "
-            "forget to activatdncsjkncsk/nbse a virtual environment? Here I am Testing the Branch Practical for GITHUB"
+            "forget to activatdncsjkncsk/nbse a virtual environment? Testing the Branch Practical for GITHUB"
         ) from exc
     execute_from_command_line(sys.argv)
 
