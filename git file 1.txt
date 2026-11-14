@@ -1,2 +1,2 @@
 Hello this is the first file for the git practical.
-Now changing something here.
+Now changing something here for push.
